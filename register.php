@@ -129,7 +129,7 @@
     </form>
 </div>
 
-<script>
+<scripy>
     document.addEventListener("DOMContentLoaded", function() {
         let password = document.getElementById("password");
         let confirmPassword = document.getElementById("confirm_password");
